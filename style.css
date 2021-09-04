@@ -1,0 +1,52 @@
+body{
+    padding: 50px;
+    background-image:url('images.jpeg');
+}
+
+#icon_img{
+    height:150px;
+}
+
+.case_div{
+    width:750px;
+    background-color:pink;
+    box-shadow: 5px 5px 5px skyblue;
+    border-radius: 20px;
+    border:5px solid black;
+    padding: 15px;
+    display: inline-block;
+}
+
+.img_test{
+    width:300px;
+    border-radius: 20px;
+    border:2px solid black;
+}
+
+.result_div{
+    border-radius: 20px;
+    border: 5px rgb(212, 38, 212) ;
+    background-color: rgb(245, 140, 245);
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.result{
+    background-color: pink;
+    border-radius: 20px;
+    border: solid rgb(3, 3, 3);
+    box-shadow: 5px 5px 5px  black;
+}
+
+#copy_right_footer{
+    position: fixed;
+    width: 100%;
+    background-color: pink;
+    color: black;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+    font-size: 15px;
+
+}
